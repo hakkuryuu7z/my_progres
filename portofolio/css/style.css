@@ -3,6 +3,7 @@ html{
 }
 body{
     margin-bottom: 120px;
+    margin-top: 25px;
 }
 .jumbotron img{
     width: 200px;
